@@ -1,10 +1,12 @@
 # Cancer Mortality Rates Model
 
-![Project Logo or Banner (optional)]
+![CMRM logo](/logo/logo%203.png)
 
 ## Overview
 
 The "Cancer Mortality Rates Model" project is a comprehensive data science and machine learning endeavor aimed at understanding the relationship between socioeconomic status and cancer mortality rates in the United States from 2010 to 2016. This project combines data analysis, preprocessing, modeling, and evaluation to derive valuable insights and build predictive models for assessing the impact of various attributes on cancer mortality rates.
+
+> For more information here Is Our [Presentation](/Report%20and%20presentation/Socioeconomics%20and%20Cancer%20Mortality%20Rates%20in%20US%20Counties.pptx) and [Report](/Report%20and%20presentation/Report.pdf)
 
 ## Dataset
 
@@ -55,3 +57,5 @@ We evaluated model performance using appropriate metrics and conducted hypothesi
 ## Acknowledgments
 
 We extend our gratitude to our supervisors, Dr. Ibrahim and Eng. Merna, for their invaluable guidance and support throughout this project.
+
+[def]: /Report%20and%20presentation/Report.pdf
