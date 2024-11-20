@@ -48,7 +48,7 @@ We evaluated model performance using appropriate metrics and conducted hypothesi
 
 ## Contributors
 
-- [Ziyad ElFayoumy](https://github.com/Zoz-HF)
+- [Ziyad ElFayoumy](https://github.com/Ziyad-HF)
 - [Mohamed Ibrahim](https://github.com/Medo072)
 - [Kareem Salah](https://github.com/cln-Kafka)
 - [AbdElRahman Shawky](https://github.com/AbdulrahmanGhitani)
